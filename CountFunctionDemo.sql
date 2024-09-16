@@ -76,25 +76,10 @@ ORDER BY Name;
 /*
  The key to increasing your understanding of anything, is by increasing your "vocabulary" in that thing.
 
- YouTube and other platforms of learning exploit low level student by increasing the time to teach a subject,
- by explaining what should already be understood to the student without detailing the nuances, and so you 
- never really own the material, you are given specific common solutions with a "general understanding" of how it works.
-
- YouTube is not bad for a quick and dirty, but how do we become outright sustainable and clean?
+ - YouTube & Blogs; quick and dirty vs clean and sustainable
 
  - Establish the "manual" (yes "RTFM" is legit), sources of information that are official or recognized authorities.
+   (Review Question 3, e.g. look at how to read conventions, understanding expressions, and reading "Remarks" section,
 
- - Learn how to "read the manual", usually found in a preface or URL to the content explaining conventions of the material, e.g.:
- https://learn.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql?view=sql-server-ver16&redirectedfrom=MSDN&tabs=code
-
- - The beginning takes time and effort since you are building the base of your knowledge - e.g., this is why learning a new language WELL is super difficult for many,
-   people mostly learn just enough to get by (quick and dirty).
-
- - More complex topics become small additions to an algamation of things you already know, this is where learning becomes quicker and fun while 
-   keeping thing you already learned easier to access from memory - e.g., you learn a language well, and now reading a book, newspaper, or even doing a crossword 
-   considered "difficult" because you need to understand a language well, is now "fun".
-
- - If things are becoming fun, continue doing them. Anything we don't practice loses it's form with us, 
- - we are built to survive, automatically prioritizing our resources (mental and physical capacities) at whatever we do continuously.
-
+ - Making "work" easier; a little bit daily goes a long way, try to end with a deep understanding aka "solid fundamentals"
 */
